@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a Master's Student in Applied Information and Data Science at HSLU, exploring the Data Science universe 🌌
+
+I completed following fun and creative projects:
+- Data Base Management -> Restaurant Reviews in the USA :fork_and_knife:
+- Machine Learning -> ML in Speed Dating :couplekiss:
+
+
 <!--
 **Any4r/Any4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
