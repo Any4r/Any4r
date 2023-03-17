@@ -4,7 +4,7 @@ I am a Master's Student in Applied Information and Data Science at HSLU, explori
 
 I completed following fun and creative projects:
 - Data Base Management -> Restaurant Reviews in the USA :fork_and_knife:
-- Machine Learning -> ML in Speed Dating :couplekiss:
+- Machine Learning -> [ML in Speed Dating](https://any4r.github.io/ML-in-Speed-Dating/) :couplekiss:
 
 
 <!--
