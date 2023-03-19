@@ -6,6 +6,7 @@ I completed following fun and creative projects:
 - Database Management -> [Restaurant Reviews in the USA](https://github.com/Any4r/Restaurant-Reviews-in-the-USA) 🍴
 - Machine Learning -> [ML in Speed Dating](https://github.com/Any4r/ML-in-Speed-Dating) 💏
 - Time Series Analysis -> [Renewable Energy Share Forecast](https://github.com/Any4r/Renewable-Energy-Share-Forecast) 🌍
+- Web Scraping -> [Rental Properties in Switzerland](https://github.com/Any4r/Rental-Properties-in-Switzerland) 🏠
 
 
 <!--
