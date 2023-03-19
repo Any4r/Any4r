@@ -7,6 +7,7 @@ I completed/participated in following fun and creative projects:
 - Machine Learning -> [ML in Speed Dating](https://github.com/Any4r/ML-in-Speed-Dating) 💏
 - Time Series Analysis -> [Renewable Energy Share Forecast](https://github.com/Any4r/Renewable-Energy-Share-Forecast) 🌍
 - Web Scraping -> [Rental Properties in Switzerland](https://github.com/Any4r/Rental-Properties-in-Switzerland) 🏠
+- Recommender Systems -> [Kaggle Challenge by Deezer](https://github.com/Any4r/Kaggle-Challenge-by-Deezer) 🎵
 
 
 <!--
